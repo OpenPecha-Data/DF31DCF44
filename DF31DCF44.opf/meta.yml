@@ -1,11 +1,23 @@
-id: P429445A5
+id: DF31DCF44
+source: https://library.bdrc.io
+source_file: null
 initial_creation_type: ocr
+imported: '2022-02-24T10:29:45+00:00'
+last_modified: '2022-05-26T12:37:03.651305+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
 source_metadata:
-  volumes:
-    d22ef681fe404a178b8706f77e7089dd:
-      base_file: v038.txt
+  base:
+    ee6c:
       image_group_id: I1PD95883
       title: འཕགས་པ་ཀུན་ནས་སྒོར་འཇུག་པའི་འོད་ཟེར་གཙུག་ཏོར་དྲི་མ་མེད་པར་སྣང་བའི་གཟུངས་བཀླག་ཅིང་མཆོད་རྟེན་བརྒྱ་རྩ་བརྒྱད་དམ།
         མཆོད་རྟེན་ལྔ་གདབ་པའི་ཆོ་ག་མདོ་སྡེ་ལས་བསྡུས་པ།
       total_pages: 1044
-      volume_number: 38
+      order: 38
+      base_file: ee6c.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
